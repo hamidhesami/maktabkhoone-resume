@@ -1,0 +1,23 @@
+.b1 {
+  background-color: yellow;
+  position: relative;
+  font-weight: bold;
+}
+
+.b2 {
+  background-color: rgb(7, 27, 138);
+  position: relative;
+  color: aliceblue;
+  font-weight: bold;
+}
+
+.b3 {
+  background-color: rgb(94, 4, 4);
+  position: relative;
+  color: aliceblue;
+  font-weight: bold;
+}
+
+.h3 {
+  font-size: 3rem;
+}

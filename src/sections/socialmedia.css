@@ -1,0 +1,42 @@
+.a1 {
+  color: white;
+  background-color: rgb(38, 1, 124);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: relative;
+}
+
+.a2 {
+  color: white;
+  background-color: rgb(172, 101, 9);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: relative;
+}
+
+.a3 {
+  color: white;
+  background-color: rgb(5, 83, 37);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: relative;
+}
+
+.icons {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.icon {
+  margin: 10px;
+}
+
+.move {
+  width: "50px";
+  justify-self: end;
+}
