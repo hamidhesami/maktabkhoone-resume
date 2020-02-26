@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5922abf01305b215c234343c48b1b746",
+    "revision": "949fea2a1c800a7b30460ac93c244d9f",
     "url": "/maktabkhoone-resume/index.html"
   },
   {
-    "revision": "81d79411d69370b72840",
-    "url": "/maktabkhoone-resume/static/css/main.9185972e.chunk.css"
+    "revision": "5f4aae6c717724fe1714",
+    "url": "/maktabkhoone-resume/static/css/main.3046afd6.chunk.css"
   },
   {
     "revision": "a9aa75006f951eebea03",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/maktabkhoone-resume/static/js/2.e3f927f7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "81d79411d69370b72840",
-    "url": "/maktabkhoone-resume/static/js/main.2c659044.chunk.js"
+    "revision": "5f4aae6c717724fe1714",
+    "url": "/maktabkhoone-resume/static/js/main.0e1bf2be.chunk.js"
   },
   {
     "revision": "d03aafdb2cff06a04b0b",
